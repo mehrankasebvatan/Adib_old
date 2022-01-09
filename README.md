@@ -1,8 +1,7 @@
-# Adib
+# Adib / ادیب
 
-# Molana / مولانا؛ فیه ما فیه
 
-#Simple App using SQLite / یک برنامه ساده برای اموزش sqlite
+#Simple App using Retrofit / یک برنامه ساده برای آموزش رتروفیت
 
 ---
 
