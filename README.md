@@ -8,11 +8,11 @@
 ## Screen Shots / تصاویر محیط برنامه
 Dark Main | Light Main | Dark Content | Light Content
 :------------------:|:-------------------:|:------------------:|:-------------------
-![main](https://raw.githubusercontent.com/mehrankasebvatan/Molana/master/ScreenShots/Molana1.png) | ![main](https://raw.githubusercontent.com/mehrankasebvatan/Molana/master/ScreenShots/Molana2.png) | ![main](https://raw.githubusercontent.com/mehrankasebvatan/Molana/master/ScreenShots/Molana3.png) | ![main](https://raw.githubusercontent.com/mehrankasebvatan/Molana/master/ScreenShots/Molana4.png)
+![main](https://raw.githubusercontent.com/mehrankasebvatan/Adib/master/ScreenShots/01.png) | ![main](https://raw.githubusercontent.com/mehrankasebvatan/Adib/master/ScreenShots/04.png) | ![main](https://raw.githubusercontent.com/mehrankasebvatan/Adib/master/ScreenShots/03.png) | ![main](https://raw.githubusercontent.com/mehrankasebvatan/Adib/master/ScreenShots/06.png.png)
 
 ## Download Apk / دانلود فایل نصبی
 
-[Click Here / اینجا کلیک کنید](https://raw.githubusercontent.com/mehrankasebvatan/Molana/master/app/release/Molana_1.0.1_Bazaar.apk)
+[Click Here / اینجا کلیک کنید](https://raw.githubusercontent.com/mehrankasebvatan/Adib/master/app/release/ADib_1.1.apk)
 
 
 
