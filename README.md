@@ -12,7 +12,7 @@ Dark Main | Light Main | Dark Content | Light Content
 
 ## Download Apk / دانلود فایل نصبی
 
-[Click Here / اینجا کلیک کنید](https://raw.githubusercontent.com/mehrankasebvatan/Adib/master/app/release/ADib_1.1.apk)
+[Click Here / اینجا کلیک کنید](https://raw.githubusercontent.com/mehrankasebvatan/Adib/master/app/release/Adib_1.1.apk)
 
 
 
