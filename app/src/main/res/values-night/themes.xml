@@ -1,0 +1,36 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Adib" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorPrimaryVariant">@color/red</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/red</item>
+        <item name="colorSecondaryVariant">@color/red</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="android:typeface">monospace</item>
+        <item name="android:windowBackground">@color/black</item>
+
+    </style>
+
+    <style name="cv_btn" parent="CardView">
+        <item name="cardBackgroundColor">@color/greyDark</item>
+    </style>
+
+
+    <style name="NV" >
+        <item name="android:typeface">monospace</item>
+    </style>
+
+    <style name="AD" parent="Theme.AppCompat.DayNight.Dialog.Alert">
+        <item name="android:layoutDirection">rtl</item>
+        <item name="colorOnPrimary">@color/white</item>
+    </style>
+
+
+
+</resources>

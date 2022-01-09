@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">ادیب</string>
+    <string name="description">دریچه فرهنگ و ادبیات</string>
+    <string name="persian_story">داستان های ایرانی</string>
+    <string name="translate_story">داستان های ترجمه شده</string>
+    <string name="persian_poem">شعرهای فارسی معاصر</string>
+    <string name="drama">نمایشنامه ها</string>
+    <string name="version">نسخه: 1.1</string>
+    <string name="about">درباره ادیب</string>
+    <string name="rate">امتیاز به برنامه</string>
+    <string name="apps">سایر برنامه ها</string>
+    <string name="share">اشتراک گذاری برنامه</string>
+    <string name="developer">توسعه دهنده</string>
+    <string name="developers">توسعه دهنده:</string>
+    <string name="loading">در حال بارگزاری اطلاعات\nلطفا کمی صبر کنید.....</string>
+    <string name="my_name">مهران کاسب وطن</string>
+    <string name="telegram">تلگرام</string>
+    <string name="instagram">اینستاگرام</string>
+    <string name="resume">رزومه من</string>
+    <string name="github">گیتهاب</string>
+    <string name="order">سفارش پروژه</string>
+    <string name="connect">شبکه های اجتماعی من:</string>
+    <string name="virgool">ویرگول</string>
+    <string name="about_app">درباره ادیب</string>
+    <string name="about_version">نسخه: 1.1</string>
+    <string name="about_description">توضیحات برنامه</string>
+    <string name="about_library">کتابخانه های استفاده شده: </string>
+    <string name="about_source">منبع: </string>
+    <string name="copy_right">ADIB - Copyright (C) 2022 - Mehran Kasebvatan</string>
+    <string name="again">متاسفانه ارتباط شما برقرار نشد!\nلطفا بعد از چک کردن وضعیت اتصال دوباره امتحان کنید</string>
+    <string name="telegram_group">گروه تلگرام</string>
+    <string name="telegram_channel">کانال تلگرام</string>
+    <string name="donate">حمایت از ادیب</string>
+    <string name="date">زمستان 1400</string>
+    <string name="info">
+        ادیب، یک نرم افزار رایگان اشتراک گذاری محتوای ادبی به زبان فارسی ست.\nمحتوای ادیب به صورت آنلاین آماده شده و هر چند روز یک بار به روزرسانی داخلی می شود و از طریق نوتفیکیشن به کاربران اعلام می گردد.\nاستفاده از محتوای گردآوری شده توسط ادیب بدون ذکر منبع مجاز نیست.\nمشتاقانه آماده شنیدن نظرات، انتقادات و پیشنهادات شما هستیم.
+    </string>
+    <string name="donate_info">
+        ادیب یک نرم افزار متن باز و رایگان است.\nما برای تامین هزینه های سرور به مشارکت کاربرانمان نیاز داریم.\nدر صورتی که از ادیب استفاده میکنید و از آن راضی هستید، می توانید مبلغی به عنوان هیه به ادیب بپردازید.\nبا کلیک روی دکمه پایین می توانید هر مبلغی که مایل هستید بپردازید. در صورتی که تمایل دارید در لیست حمایت کنندگان ادیب قرار بگیرید، در توضیحات پرداخت خود قید کنید.\nبا تشکر
+    </string>
+    <string name="cash">پرداخت از درگاه اینترنتی - مبلغ دلخواه</string>
+    <string name="show">لیست حامیان ادیب</string>
+    <string name="app_link">\n\n\n\n\n
+    مطالعه بیشتر در ادیب (دانلود از کافه بازار):\n\n
+        https://cafebazaar.ir/app/app.adib
+    </string>
+    <string name="share_app">
+        ادیب، دریچه فرهنگ و ادبیات\nدانلود از کافه بازار:\n\n
+        https://cafebazaar.ir/app/app.adib
+    </string>
+    <string name="remove_ad">حذف تبلیغات</string>
+
+</resources>
